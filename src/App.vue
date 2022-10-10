@@ -15,6 +15,7 @@ export default {
     Results,
     Block
   },
+
   data() {
     return {
       isPlaying: false,
